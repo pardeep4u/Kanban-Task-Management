@@ -1,5 +1,9 @@
 # Task Board App
 
+![Screenshot (100)](https://github.com/pardeep4u/Kanban-Task-Management/assets/64978605/7f10a541-5075-4379-abcb-f5508bb31b3d)
+![Screenshot (101)](https://github.com/pardeep4u/Kanban-Task-Management/assets/64978605/b2da7869-c02f-4daa-92e3-f274f91f4afc)
+
+
 The Task Board App is a simple web application that allows you to manage tasks using drag-and-drop functionality. You can create, edit, delete, and organize tasks into different columns.
 
 ## Table of Contents
